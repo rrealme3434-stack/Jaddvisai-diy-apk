@@ -42,7 +42,7 @@ jobs:
       - name: Upload APK Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: Ranga-AI-DIY-APK
+          name: ${{ github.event.repository.name }}-Debug-APK
           path: app/build/outputs/apk/debug/*.apk
           retention-days: 30
 
