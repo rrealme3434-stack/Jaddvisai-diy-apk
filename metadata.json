@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis AI",
+  "description": "DIY Jarvis AI voice assistant & smart automation console with Iron Man holographic HUD, device telemetry, IoT control, and customizable routines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
